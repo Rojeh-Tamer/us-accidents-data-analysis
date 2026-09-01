@@ -1,0 +1,13 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python / Jupyter Notebook checkpoints
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Block massive raw files and archives (allows sample2.csv to be tracked)
+US_Accidents_March23.csv
+*.zip
