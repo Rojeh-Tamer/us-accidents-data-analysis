@@ -11,3 +11,4 @@ __pycache__/
 # Block massive raw files and archives (allows sample2.csv to be tracked)
 US_Accidents_March23.csv
 *.zip
+"sample2.csv" 
